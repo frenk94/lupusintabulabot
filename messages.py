@@ -10,7 +10,18 @@ diz = {"rules": {"it": "I partecipanti ricevono un ruolo tra contadino 🚜, veg
                        "In tal caso il 🐾 diventa 🐺 e così circola un cattivo in più.\n"
                        "Inizia quindi la discussione su chi sia un 🐺, alla fine ogni giocatore esprime il proprio voto"
                        ", il più votato muore.\n"
-                       "🌙 e ☀️ si alternano finché una fazione giunge alla vittoria!"},
+                       "🌙 e ☀️ si alternano finché una fazione giunge alla vittoria!",
+                 "en": "Participants receive a role: peasant 🚜, fortune teller 🧙‍♀, protector 👮‍♂, werewolf's son 🐾 "
+                       "(good) and werewolf 🐺(bad).\n" 
+                       "The match starts, 2 phase takes turn:\n"
+                       "🌙: 🐺 decide their victim, to 🧙‍♀ is disclosed if a player of her choice is good or bad, "
+                       "👮‍♂ decides who he'll protect for the night.\n"
+                       "☀️: results are revealed. If 🐺 and 👮‍♂ made the same chioice nothing happens,"
+                       " otherwise who was chosen by 🐺 dies unless he's a 🐾. "
+                       "In this case the 🐾 becomes a 🐺 and since then the pack has a new 🐺.\n"
+                       "The debate about who is a 🐺 can start, each player expresses his vote, "
+                       "who receives the most votes is lynched.\n"
+                       "🌙 and ☀️ repeat themselves untill a part (good or bad) wins!"},
        "start_game": {"it": "Tutti i giocatori confermati, i vostri ruoli sono comunicati in chat privata.\n\n"
                             "Inizio della partita.",
                       "en": "All players are confirmed, your roles are communicated in private chat.\n\n"
